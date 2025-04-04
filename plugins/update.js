@@ -1,4 +1,4 @@
-// JawadTechX Don't Change Credits 💸
+// JawadTechX Don't Change Credits 
 
 const { cmd } = require("../command");  
 const axios = require('axios');  
